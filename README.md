@@ -15,14 +15,14 @@ edit the system environments user veriables path as C:\ffmpeg
 
 HOW TO USE
 
-FOR FULL HD yt-dlp <URL of YouTube Video>
+FOR FULL HD yt-dlp paste url
 
 FOR MP4 1920x1280P
 
 1-run download_1280p_mp4.bat
-2-Paste <URL of YouTube Video>
+2-Paste paste url
 
 FOR MP3 AUDIO
 
 1-run Youtube to MP3 online.bat
-2-Paste <URL of YouTube Video>
+2-Paste paste url
