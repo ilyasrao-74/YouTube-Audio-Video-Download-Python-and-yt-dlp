@@ -19,10 +19,10 @@ FOR FULL HD yt-dlp paste url
 
 FOR MP4 1920x1280P
 
-1-run download_1280p_mp4.bat
-2-Paste paste url
+run download_1280p_mp4.bat
+  Paste paste url
 
 FOR MP3 AUDIO
 
-1-run Youtube to MP3 online.bat
-2-Paste paste url
+run Youtube to MP3 online.bat
+  Paste paste url
